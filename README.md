@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Omar</h1> 
 
-<h3 align="center">A passionate Software programmer from Rwanda</h3>
+<h3 align="center">A passionate frontend developer from Rwanda</h3>
 <h3 align="center">💀 I’m currently studying in Rwanda</h3>
 <h3 align="center">💀 I’m currently studying Software Development in Giheke TSS</h3>
 <div align="left">
